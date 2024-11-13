@@ -1,0 +1,6 @@
+keword.iskeyword('as')
+
+
+
+
+
